@@ -1,20 +1,9 @@
-# Backbone Tutorials
+# IOS - Native Styled version using Backbone and Require. 
 
-This site is by no means the definitive guide to backbone.js and all corrections and contributions are welcome.
+This is a learning example to get my existing backbone app away from namespace and into require.js. Keeping only the todos-app for now as the 
+App I'm building is a rather simple single page app.
 
-About Backbone Tutorials:
-
-As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial.
-
-I started this site to not only consolidate my understanding of backbone.js, but to also document what I have learned thus far for myself and others.
-
-Thomas Davis - [@neutralthoughts](http://twitter.com/neutralthoughts) - Twitter
-
-## Contributions
-
-* Thanks to Cactus([https://github.com/cactus](https://github.com/cactus)) for creating the blog feed
-* Thanks to Wes Bos ([https://github.com/wesbos](https://github.com/wesbos)) for CSS fixes
-* Thanks to Paul Irish ([https://github.com/paulirish](https://github.com/paulirish)) for tutorial clarification
+Andrew Hart
 
 ## About the author
 
@@ -32,6 +21,3 @@ Thomas Davis - [@neutralthoughts](http://twitter.com/neutralthoughts) - Twitter
 *   Technical Blog - http://thomasdavis.github.com
 *   Quora - http://www.quora.com/Thomas-Davis
 *   StackOverflow - http://stackoverflow.com/users/580675/thomas-davis
-
-Love you mum!
-<img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66606907ns.gif" />
